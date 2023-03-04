@@ -1,0 +1,4 @@
+# Ignored directories
+test/
+# Ignored files
+*test*.*
